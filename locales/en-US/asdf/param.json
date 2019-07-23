@@ -1,0 +1,45 @@
+{
+    "///": "Following are param for script 1",
+    "scope_path": "C:/Users/HP/OneDrive - business/文档/Adobe/project script/downloaded csv",
+    "project_path": "C:/Users/HP/OneDrive - business/文档/Adobe/project script/project files/89_Adobe DMa_AEM-CQ & AEM-Granite_20190505/recv",
+    "scope_archive_path": "C:/Users/HP/OneDrive - business/文档/Adobe/project script/Scope Info_2019.04.29 - 2019.05.14/testpath",
+    "weights_w_review": [
+        0,
+        0.3,
+        0.33,
+        0.66,
+        1,
+        0.3,
+        1,
+        1
+    ],
+    "weights_wo_review": [
+        0,
+        0,
+        0.33,
+        0.66,
+        1,
+        0.3,
+        1,
+        1
+    ],
+    "project_info_xlsx": "C:/Users/HP/OneDrive - business/文档/Adobe/project script/Adobe_ProjectInfo_20190422~20190517_rzj.xlsx",
+    "////": "Following are param for script 2",
+    "sender": "chenshenghao@beyondsoft.com",
+    "cc": "chshh@yeah.net",
+    "signature": "Charles Chen",
+    "return_date": "2019/10/10",
+    "mailcontent": [
+        {
+            "subject": "Adobe Translation task: %s ",
+            "message": "Hi %s,\n\nHere’s a translation request about %s with about %d weighted words. \nPlease be noted that 100%% review is not needed.\n\nThe return date is %s \nThank you\n\nBest regards,\n%s\nBeyondsoft Corporation\n",
+            "review_message": "\nHi %s,\n\nHere’s a translation request about %s with about %d weighted words. \nPlease be noted that 100%% matches need to be reviewed. 100%% matches: %d\n\nThe return date is %s \nThank you\n\nBest regards,\n%s\nBeyondsoft Corporation\n"
+        }
+    ],
+    "/////": "Following are param for script 3",
+    "dma_path_list": [
+        "C:/Users/HP/OneDrive - business/文档/Adobe/project script/Scope Info_2019.04.29 - 2019.05.14/DC Web/UI/Virgo-Web_Acrobat.com_20190505",
+        "C:/Users/HP/OneDrive - business/文档/Adobe/project script/Scope Info_2019.04.29 - 2019.05.14/TSO/DME - KB/DMe-KB Help_1556587366_XD_20190430"
+    ],
+    "dma_xlsx": "C:/Users/HP/OneDrive - business/文档/Adobe/project script/Scope Info_2019.04.29 - 2019.05.14/Adobe Experience Cloud Analytics_Workload_05-14-2019.xlsx"
+}
